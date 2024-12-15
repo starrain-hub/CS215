@@ -3,10 +3,11 @@
 This page is for a coding project done by Rena Takahashi and LJ Friedman for the purpose of exploring the relationship between finance and general happiness. Click [here](Final_Project_—_Happiness_Data.ipynb) to read through the code.
 \
 This list will be direct download links to the CSVs used in this project:
-* [Happiest countries](Happiestcountries.csv)
-* [Health expediture per capita](Healthexpenditure.csv)
+* [Happiest countries](Happiest_countries.csv)
+* [Cost of Living](Cost_of_living.csv)
+* [Health expediture per capita](Health_expenditure.csv)
 * [Annual precipitation](Precipitation.csv)
-* [Percentage of land usage for agriculture](Landpercentage.csv)
+* [Percentage of land usage for agriculture](Land_percentage.csv)
 
 \
 The following is the write-up for this code.
