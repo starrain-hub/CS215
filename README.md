@@ -1,8 +1,12 @@
 ### Group members for this project: Rena Takahashi, LJ Friedman
 
 This page is for a coding project done by Rena Takahashi and LJ Friedman for the purpose of exploring the relationship between finance and general happiness. Click [here](Final_Project_—_Happiness_Data.ipynb) to read through the code.
+\
 This list will be direct download links to the CSVs used in this project:
-- 
+* [Happiest countries](Happiestcountries.csv)
+* [Health expediture per capita](Healthexpenditure.csv)
+* [Annual precipitation](Precipitation.csv)
+* [Percentage of land usage for agriculture](Landpercentage.csv)
 
 \
 The following is the write-up for this code.
