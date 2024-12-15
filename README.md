@@ -49,11 +49,13 @@ The second visualization (Fig 2\) displays the cost of living in 2024 around the
   {% include_relative fig2.html %}
 Fig 2\. Choropleth map of the cost of living in the world in 2024\. The redder the country, the more expensive the cost of living is in it. Data for the map was taken from [Cost of Living Rankings by Country in 2024](https://worldpopulationreview.com/country-rankings/cost-of-living-by-country).
 
-\
+<br>
+
   {% include_relative fig6.html %}
 Fig 3\. Scatterplot with happiness scores as the y-axis and the cost of living as the x-axis, where each dot represents a different country and each color a different quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the cost of living was taken from [Cost of Living Rankings by Country in 2024](https://worldpopulationreview.com/country-rankings/cost-of-living-by-country).
 
-\
+<br>
+
   {% include_relative fig7.html %}
 Fig 4\. Boxplot with cost of living as the y-axis and the quartiles of happiness scores (refer to Fig 3\.) as the x-axis. Each box represents the distribution of the cost of living in each quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the cost of living was taken from [Cost of Living Rankings by Country in 2024](https://worldpopulationreview.com/country-rankings/cost-of-living-by-country).
 
@@ -64,11 +66,13 @@ However, one continent in particular does not fit this pattern: South America. U
   {% include_relative fig3.html %}
 Fig 5\. Choropleth map of health expenditure per capita in 2021\. The darker the color, the higher the expenditure for the country. Data for this map was taken from [Health Expenditure per Capita by Country](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?locations=1W).
 
-\
+<br>
+
   {% include_relative fig8.html %}
 Fig 6\. Scatterplot with happiness scores as the y-axis and health expenditure per capita as the x-axis, where each dot represents a different country, and each color a different quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the health expenditure was taken from [Health Expenditure per Capita by Country](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?locations=1W).
 
-\
+<br>
+
   {% include_relative fig9.html %}
 Fig 7\. Boxplot with health expenditure per capita as the y-axis and the quartiles of happiness scores (refer to Fig 6\.) as the x-axis. Each box represents the distribution of the healthcare expenditure in each quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the health expenditure was taken from [Health Expenditure per Capita by Country](https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?locations=1W).
 
@@ -78,11 +82,13 @@ We then have Fig 8, which displays the amount of annual precipitation in 2021 as
   {% include_relative fig4.html %}
 Fig 8\. Choropleth map of amount of annual precipitation (in mm) in 2021\. The darker the color, the larger the amount of precipitation there was in the country. Data for this map was taken from [Average Annual Precipitation by Country in 2021](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?most_recent_value_desc=true).
 
-\
+<br>
+
   {% include_relative fig10.html %}
 Fig9\. Scatterplot with happiness scores as the y-axis and annual precipitation (mm) as the x-axis, where each dot represents a different country and each color a different color quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the annual precipitation was taken from [Average Annual Precipitation by Country in 2021](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?most_recent_value_desc=true).
 
-\
+<br>
+
   {% include_relative fig11.html %}
 Fig 10\. Boxplot with annual precipitation as the y-axis and the quartiles of happiness scores (refer to Fig 9\.) as the x-axis. Each box represents the distribution of the annual precipitation in each quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the annual precipitation was taken from [Average Annual Precipitation by Country in 2021](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?most_recent_value_desc=true).
 
@@ -92,18 +98,19 @@ Finally, for the last pairs of visualizations, we have Fig 11 with the choroplet
   {% include_relative fig5.html %}
 Fig 11\. Choropleth map for percentage of land occupied for agriculture (%) in each country in 2021\. The darker the color, the more land used in the respective country. Data for this map was taken from [Percentage of Land Dedicated for Agriculture in 2021](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?most_recent_value_desc=true&view=map).
 
-\
+<br>
+
   {% include_relative fig12.html %}
 Fig 12\. Scatterplot with happiness scores as the y-axis and percentage of land occupied for agriculture (%) in 2021 as the x-axis, where each dot represents a different country and each color a different quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the percentage of land occupied for agriculture was taken from [Percentage of Land Dedicated for Agriculture in 2021](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?most_recent_value_desc=true&view=map).
 
-\
+<br>
+
   {% include_relative fig13.html %}
 Fig 13\. Boxplot with percentage of land occupied for agriculture (%) as the y-axis and the quartiles of happiness scores (refer to Fig 12\.) as the x-axis. Each box represents the distribution of the land percentage in each quartile. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world) and the percentage of land occupied for agriculture was taken from [Percentage of Land Dedicated for Agriculture in 2021](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?most_recent_value_desc=true&view=map).
 
 \
 Since the relationships between happiness scores and annual precipitation and land usage area are somewhat vague, we have decided to compare these three variables altogether. In the final figure, Fig 14, we examine the boxplot of the relationship between happiness scores and the pairings of annual precipitation and area of land usage for agriculture (i.e., all the possible combinations for precipitation and land usage labels). The visualization gives us conclusions that make sense; the box representing high precipitation and medium area of land usage has the highest happiness score, and the box representing low precipitation and low area of land usage has the lowest happiness score. It is expected that this would be reflected in a choropleth map, and combined with cost of living, the conclusion would most likely be that the higher the precipitation and area of land usage, the higher the cost of living and thus the happiness score.
 
-\
   {% include_relative fig14.html %}
 Fig 14\. Boxplot with happiness scores as the y-axis and all of the possible pairings of annual precipitation and percentage of land usage for agriculture as the x-axis. Each box represents the distribution of each pairing of precipitation and land area over happiness scores. Data for the happiness scores was taken from [Happiest Countries in the World 2024](https://worldpopulationreview.com/country-rankings/happiest-countries-in-the-world), the annual precipitation was taken from [Average Annual Precipitation by Country in 2021](https://data.worldbank.org/indicator/AG.LND.PRCP.MM?most_recent_value_desc=true), and the percentage of land occupied for agriculture was taken from [Percentage of Land Dedicated for Agriculture in 2021](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?most_recent_value_desc=true&view=map).
 
